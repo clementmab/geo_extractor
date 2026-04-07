@@ -1,0 +1,17 @@
+[general]
+name=GeoExtractor
+description=One-click extraction of OpenStreetMap data with automatic download, processing, and clipping.
+about=GeoExtractor is a QGIS plugin that allows users to easily extract OpenStreetMap data within a selected area. It automates the entire workflow including data retrieval via Overpass API, conversion to GeoJSON, and clipping to a user-defined boundary.
+version=1.0
+qgisMinimumVersion=3.0
+author=Mabika Clément
+email=geonia.tec@email.com
+icon=icon.png
+
+
+tracker=https://github.com/clementmab/geo_extractor/issues
+repository=https://github.com/clementmab/geo_extractor.git
+homepage=https://github.com/clementmab/geo_extractor
+
+category=Vector
+tags=osm,openstreetmap,extract,clip,gis
